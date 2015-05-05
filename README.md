@@ -1,2 +1,2 @@
 # Tutorials
-Regular expression tutorials using Python
+This repository has some regular expression or regex tutorials using Python.
