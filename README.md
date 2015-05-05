@@ -1,4 +1,5 @@
-# Tutorials
-This repository contains some regular expression or regex tutorials using Python. The data that is used to extract information are typically scientific in nature, while simple to understand.
+# Python Regex 01
 
-1. tutorial_01: Here, meteorological data file is used as an example to show how Python regex could be used to extract header information. This is followed by extracting temperature data on every single day for a particular month, again using regex. Using matplotlib, the data is plotted. This tutorial can be extended for other months of the year. 
+This repository contains a simple Python program that explains the use of regular expressions in Python. To have some meaningful regular expressions, a data file containing meterological information obtained from Australia's Bureau of Meteorology (BOM) is used. A set of alpha-numerical and numerical datas are extracted using Python's regex. Although note that regex is not the most efficient way to carry out data analysis and interpretation. Here it is just used to show the versatality of regex and to learn using it for Python.
+
+The file data.txt is the one which was obtained from BOM and contains maximum temperature data recorded over a period of one yer. We regex the data and plot them. 
