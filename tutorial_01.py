@@ -76,3 +76,5 @@ if febValues:
 	plt.xlim(1, len(febValues))
 	plt.title('Maximum temperature for the month of Februrary, Station ID: IDCJAC0010')
 	plt.show()
+else:
+	print "Evaluate Februrary values"
