@@ -10,4 +10,4 @@ The file data.txt is the one which was obtained from BOM and contains maximum te
 * README.md
 
 # Executing the Python program
-python data_regex.py
+`python data_regex.py`
