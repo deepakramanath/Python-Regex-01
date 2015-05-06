@@ -21,7 +21,7 @@ dayValue = []
 maxTempValue = []
 
 # Opening the data file
-with open('data_tutorial_01.txt', 'r') as data:
+with open('data.txt', 'r') as data:
 	for line in data:
 
 		if not 'IDCJAC0010' in line:
