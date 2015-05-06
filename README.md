@@ -5,9 +5,9 @@ This repository contains a simple Python program that shows the use of regular e
 The file data.txt is the one which was obtained from BOM and contains maximum temperature data recorded over a period of one year. We regex the data and plot them using matplotlib.
 
 # Files included
-data.txt
-data_regex.py
-README.md
+* data.txt
+* data_regex.py
+* README.md
 
 # Executing the Python program
 python data_regex.py
