@@ -7,6 +7,7 @@ The file data.txt is the one which was obtained from BOM and contains maximum te
 # Files included
 * data.txt
 * data_regex.py
+* data_regex.ipynb
 * README.md
 
 # Executing the Python program
